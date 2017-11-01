@@ -13,4 +13,5 @@ $('.login_btn').click(
       $(".ui.modal.login").modal('hide');
       $(".ui.modal.register").modal('show');
     });
-})
+
+})//documentready
