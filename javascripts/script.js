@@ -1,4 +1,5 @@
 $("document").ready(function () {
+
 $('.ui.modal.register').modal('setting', 'transition', 'horizontal flip').modal('setting', 'closable', false);
 $('.ui.modal.login').modal('setting', 'transition', 'horizontal flip').modal('setting', 'closable', false);
 $('.ui.modal.register').modal('show');
